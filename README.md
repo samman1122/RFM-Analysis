@@ -9,6 +9,7 @@ The workflow starts with data processing and RFM scoring in SQL, followed by bui
 🚀 Key Features
 
 Customer segmentation based on RFM scoring
+
 Clear classification of customer groups:
 Loyal Customers
 Active Customers
@@ -16,6 +17,7 @@ Potential Churners
 Slipping Away
 New Customers
 Lost Customers
+
 Interactive Power BI dashboard for easy exploration
 
 Tech Stack
