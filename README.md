@@ -7,6 +7,7 @@ This project focuses on customer segmentation using RFM (Recency, Frequency, Mon
 The workflow starts with data processing and RFM scoring in SQL, followed by building an interactive and visually intuitive dashboard in Power BI.
 
 🚀 Key Features
+
 Customer segmentation based on RFM scoring
 Clear classification of customer groups:
 Loyal Customers
@@ -18,9 +19,12 @@ Lost Customers
 Interactive Power BI dashboard for easy exploration
 
 Tech Stack
+
 SQL (MS SQL Server) – Data extraction, transformation, RFM calculation
 Power BI – Data visualization and dashboard creation
+
 📊 Dashboard Highlights
+
 Total customer count overview
 Distribution of customers across segments
 Detailed customer-level RFM scores
